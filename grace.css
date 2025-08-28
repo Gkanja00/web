@@ -1,0 +1,19 @@
+body {
+  background-color: #ccc1e2; /* professional light gray */
+  color: #333; 
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.6;
+}
+
+
+/* Force Contact page background */
+body.contact-page {
+  background-color: #eef2f5 !important; /* !important forces the color */
+  color: #333 !important;
+}
+
+nav .logo {
+    color: #ff9800; /* choose your preferred color */
+    font-weight: bold;
+    font-size: 1.3em;
+}
